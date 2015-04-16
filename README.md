@@ -1,2 +1,0 @@
-# hprose-doc
-Hprose Documents
