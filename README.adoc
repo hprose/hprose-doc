@@ -1,5 +1,0 @@
-# hprose-doc
-Hprose Documents
-
-
-image:https://badges.gitter.im/Join%20Chat.svg[link="https://gitter.im/hprose/hprose-doc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
